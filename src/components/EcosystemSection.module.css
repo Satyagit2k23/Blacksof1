@@ -1,0 +1,267 @@
+.frameChild {
+  position: absolute;
+  top: 995px;
+  left: 0;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0), #fff);
+  width: 1918px;
+  height: 198px;
+}
+.frameItem {
+  width: 167px;
+  position: relative;
+  height: 167px;
+}
+.employedForInterfacing,
+.gateway {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.employedForInterfacing {
+  width: 242px;
+  font-size: var(--font-size-mini);
+  color: var(--color-dimgray-100);
+  text-align: center;
+  display: inline-block;
+}
+.frameGroup,
+.gatewayParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.frameGroup {
+  position: absolute;
+  top: 0;
+  left: 505px;
+  justify-content: center;
+  gap: var(--gap-6xl);
+}
+.frameInner {
+  width: 167px;
+  position: relative;
+  height: 167px;
+  object-fit: contain;
+}
+.dataFromThe {
+  width: 190.3px;
+  position: relative;
+  letter-spacing: 0.01em;
+  color: var(--color-dimgray-100);
+  text-align: center;
+  display: inline-block;
+}
+.frameParent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-6xl);
+}
+.gatheredInsightsAre {
+  width: 184.2px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  letter-spacing: 0.01em;
+  color: var(--color-dimgray-100);
+  text-align: center;
+  display: inline-block;
+}
+.frameDiv {
+  position: absolute;
+  top: 126px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-148xl);
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 251px;
+  border-right: 3px dashed var(--color-lightgray);
+  box-sizing: border-box;
+  width: 3px;
+  height: 92px;
+}
+.frameContainer,
+.groupItem {
+  position: absolute;
+  top: 87px;
+  left: 82px;
+  width: 337px;
+  height: 39px;
+}
+.frameContainer {
+  top: 263px;
+  left: 376px;
+  width: 541.5px;
+  height: 398px;
+}
+.groupInner,
+.lineDiv {
+  position: absolute;
+  top: 87px;
+  left: 710px;
+  border-top: 3px dashed var(--color-lightgray);
+  box-sizing: border-box;
+  width: 365px;
+  height: 3px;
+}
+.lineDiv {
+  left: 281px;
+  width: 248px;
+}
+.frameChild1 {
+  width: 167px;
+  position: relative;
+  height: 167px;
+  object-fit: cover;
+}
+.cloudBasedManagementSystem,
+.collectsInformationFrom {
+  width: 132px;
+  position: relative;
+  letter-spacing: 0.01em;
+  display: inline-block;
+}
+.collectsInformationFrom {
+  width: 155.1px;
+  font-size: var(--font-size-mini);
+  color: var(--color-dimgray-100);
+}
+.frameParent3 {
+  position: absolute;
+  top: 0;
+  left: 1080px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-6xl);
+  text-align: center;
+}
+.frameChild2 {
+  width: 117px;
+  position: relative;
+  height: 117px;
+}
+.frameParent5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.activatesdeactivatesInRespo {
+  width: 268.6px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  letter-spacing: 0.01em;
+  line-height: 130%;
+  color: var(--color-dimgray-100);
+  text-align: center;
+  display: inline-block;
+}
+.frameParent4,
+.streetLightControllerParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.streetLightControllerParent {
+  width: 189px;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.frameParent4 {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  justify-content: center;
+  gap: var(--gap-6xl);
+}
+.frameParent {
+  position: absolute;
+  top: 251px;
+  left: 0;
+  width: 1247px;
+  height: 661px;
+}
+.ecosystem {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  text-transform: capitalize;
+}
+.ecosystemWrapper {
+  position: absolute;
+  top: 14.5px;
+  left: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frameWrapper1 {
+  width: 88px;
+  position: relative;
+  background: linear-gradient(260.95deg, rgba(255, 255, 255, 0), #3661ff);
+  height: 65px;
+}
+.howDoesA {
+  width: 622.4px;
+  position: relative;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.01em;
+  line-height: 68px;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  display: inline-block;
+}
+.frameParent6,
+.frameWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frameParent6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lgi);
+}
+.frameWrapper {
+  width: 623px;
+  height: 220px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslateblue);
+}
+.groupParent {
+  position: absolute;
+  top: 146px;
+  left: 333px;
+  width: 1247px;
+  height: 912px;
+}
+.rectangleParent {
+  width: 1918px;
+  position: relative;
+  background: linear-gradient(
+    126.13deg,
+    #fff,
+    rgba(226, 242, 255, 0.86) 69.9%,
+    #ecf7ff
+  );
+  height: 1193px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-sequel-sans);
+}

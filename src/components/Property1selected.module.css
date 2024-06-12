@@ -1,0 +1,25 @@
+.centralizedControl {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+}
+.property1selected {
+  border-radius: var(--br-12xs);
+  background: linear-gradient(
+    -90deg,
+    rgba(203, 227, 255, 0.06),
+    rgba(110, 178, 255, 0.4),
+    rgba(203, 227, 255, 0.06) 49.87%,
+    rgba(174, 210, 251, 0.4)
+  );
+  border: 1.5px solid var(--color-cornflowerblue);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue);
+  font-family: var(--font-sequel-sans);
+}

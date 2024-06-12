@@ -1,0 +1,258 @@
+.image34Icon {
+  position: absolute;
+  top: 8px;
+  left: -453.9px;
+  width: 2107.7px;
+  height: 1212px;
+  object-fit: cover;
+  display: none;
+  mix-blend-mode: difference;
+}
+.thePlatformAssists {
+  position: absolute;
+  top: 0;
+  left: 170px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  text-align: center;
+  display: inline-block;
+  width: 827px;
+}
+.frameChild {
+  position: absolute;
+  top: 278.8px;
+  left: 630.4px;
+  border-right: 2.5px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 2.5px;
+  height: 220.8px;
+}
+.frameChild1,
+.frameInner,
+.frameItem,
+.lineDiv {
+  position: absolute;
+  top: 496.8px;
+  left: 107.8px;
+  border-top: 2.5px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 950.5px;
+  height: 2.5px;
+}
+.frameChild1,
+.frameInner,
+.lineDiv {
+  top: 1405.8px;
+  left: 773.8px;
+  width: 408.5px;
+}
+.frameChild1,
+.lineDiv {
+  top: 1302.8px;
+  left: 108.8px;
+  width: 667.5px;
+}
+.frameChild1 {
+  top: 884.8px;
+  left: 106.8px;
+  width: 951.5px;
+}
+.frameChild2,
+.frameChild3 {
+  position: absolute;
+  top: 496.8px;
+  left: 361.8px;
+  border-right: 2.5px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 2.5px;
+  height: 390.5px;
+}
+.frameChild3 {
+  top: 884.8px;
+  left: 773.8px;
+  height: 587.5px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  border-radius: var(--br-lgi);
+  background: linear-gradient(95.69deg, #3661ff, #0085ff), #d9d9d9;
+  width: 73px;
+  height: 73px;
+}
+.image41Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 74px;
+  height: 74px;
+  object-fit: cover;
+  mix-blend-mode: luminosity;
+}
+.rectangleParent {
+  width: 74px;
+  position: relative;
+  height: 74px;
+}
+.savesOnPower {
+  width: 280px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 130%;
+  display: inline-block;
+}
+.groupContainer {
+  position: absolute;
+  top: 220px;
+  left: 110px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.ensuresSecurityIn {
+  width: 335px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  display: inline-block;
+}
+.frameDiv {
+  position: absolute;
+  top: 1157px;
+  left: 878px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.lowersDowntimes {
+  width: 207.2px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  display: inline-block;
+}
+.groupParent1 {
+  position: absolute;
+  top: 260px;
+  left: 870px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.ensuresRealTimeActionable {
+  width: 585px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  display: inline-block;
+  height: 191px;
+  flex-shrink: 0;
+}
+.groupParent2 {
+  position: absolute;
+  top: 980px;
+  left: 108px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.detectsPowerThefts {
+  width: 285px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  display: inline-block;
+  height: 100px;
+  flex-shrink: 0;
+}
+.groupParent3 {
+  position: absolute;
+  top: 644px;
+  left: 109px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.ensuresSmartMonitoring {
+  width: 424px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  display: inline-block;
+  height: 161px;
+  flex-shrink: 0;
+}
+.groupParent4 {
+  position: absolute;
+  top: 584px;
+  left: 667px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.groupIcon,
+.image34Parent,
+.thePlatformAssistsCityManaParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1236px;
+  height: 1471px;
+}
+.groupIcon,
+.image34Parent {
+  top: 0.5px;
+}
+.groupIcon {
+  height: 0.95%;
+  width: 1.82%;
+  top: 0.07%;
+  right: 1.9%;
+  bottom: 98.98%;
+  left: 96.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupParent {
+  width: 1236px;
+  position: relative;
+  background: linear-gradient(166.74deg, #fff, #faffff);
+  height: 1472px;
+}
+.frameParent {
+  position: absolute;
+  top: 1033px;
+  left: 0;
+  width: 1920px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 150px;
+}
+.website {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 6138px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,98 @@
+.planetEarthFromSpace1Icon {
+  position: absolute;
+  top: -123px;
+  left: 975px;
+  width: 2324.6px;
+  height: 1216.6px;
+  object-fit: contain;
+  mix-blend-mode: lighten;
+}
+.statuspageIcon {
+  width: 49px;
+  position: relative;
+  height: 40.3px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.smartLights {
+  position: relative;
+  letter-spacing: 1.63px;
+  text-transform: capitalize;
+  background: linear-gradient(0deg, #fff, #2684ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.product,
+.statuspageParent {
+  display: flex;
+  justify-content: flex-start;
+}
+.statuspageParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-3xs-8);
+  text-align: center;
+  font-size: var(--font-size-7xl-1);
+}
+.product {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.softwareServices {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+}
+.productParent {
+  position: absolute;
+  top: 0;
+  left: 723px;
+  height: 43.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-125xl);
+}
+.dividerIcon {
+  position: absolute;
+  top: 305px;
+  left: 0;
+  max-height: 100%;
+  width: 958.2px;
+}
+.privacyTerms {
+  position: absolute;
+  top: 333.4px;
+  left: 0;
+  width: 481px;
+  height: 26.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.footer1 {
+  position: absolute;
+  top: 150px;
+  left: 238px;
+  width: 1337px;
+  height: 360px;
+}
+.footer {
+  width: 1920px;
+  position: relative;
+  background: linear-gradient(166.74deg, #00050a, #002547),
+    linear-gradient(180deg, rgba(255, 255, 255, 0), #eff7ff);
+  height: 657px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: justify;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
